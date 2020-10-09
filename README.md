@@ -1,4 +1,4 @@
-# mean-var-std
+# Mean-Variance-Standard Deviation Calculator 🧮
 
 ![Calculator Gif](https://github.com/ognjenstrbanovic/mean-var-std/blob/master/ti.gif?raw=true)
 
