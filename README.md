@@ -2,6 +2,8 @@
 
 ![Calculator Gif](https://github.com/ognjenstrbanovic/mean-var-std/blob/master/ti.gif?raw=true)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
@@ -47,3 +49,5 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
