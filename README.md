@@ -1,5 +1,5 @@
 # Mean-Variance-Standard Deviation Calculator 🧮  
-# (IN PROGRESS/NOT FINISHED)
+# (IN PROGRESS/NOT FINISHED)  
 
 ![Calculator Gif](https://github.com/ognjenstrbanovic/mean-var-std/blob/master/ti.gif?raw=true)
 
